@@ -21,6 +21,28 @@ Supported Formats :
  WEBP
  BMP
 
+Requirements
 
+- Python 3.12+
+- PyQt6
+- Pillow
 
- 
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone <https://github.com/vedansh201/Zynx---The-image-converter>
+cd Zynx
+```
+
+2. Install dependencies
+ Pillow
+ PyQt6
+
+3. Run the application
+
+```bash
+python main.py
+```
+
